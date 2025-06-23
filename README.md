@@ -4,6 +4,8 @@ Profanity detector and summarizer in Videos built using VOSK 'en' and Mistral 7B
 Install WSL dependencies:
 sudo apt install ffmpeg tesseract-ocr espeak-ng -y
 
+pip install -r requirements.txt
+
 This Streamlit application performs automated moderation on short videos by analyzing:
 -NSFW visual content using NudeNet
 -Abusive language in audio using VOSK and Detoxify
