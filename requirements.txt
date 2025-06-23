@@ -1,0 +1,13 @@
+streamlit
+opencv-python
+moviepy
+numpy
+nudenet
+torch
+transformers
+pytesseract
+Pillow
+vosk
+detoxify
+scipy
+huggingface-hub
